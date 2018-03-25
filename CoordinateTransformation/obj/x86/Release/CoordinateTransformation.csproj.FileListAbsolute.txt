@@ -1,0 +1,14 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\CoordinateTransformation\CoordinateTransformation\bin\Release\CoordinateTransformation.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\CoordinateTransformation\CoordinateTransformation\bin\Release\CoordinateTransformation.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\CoordinateTransformation\Release\CoordinateTransformation.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\CoordinateTransformation\Release\CoordinateTransformation.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\CoordinateTransformation\CoordinateTransformation\obj\x86\Release\CoordinateTransformation.csproj.ResolveComReference.cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\CoordinateTransformation\CoordinateTransformation\obj\x86\Release\CoordinateTransformation.MainForm.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\CoordinateTransformation\CoordinateTransformation\obj\x86\Release\CoordinateTransformation.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\CoordinateTransformation\CoordinateTransformation\obj\x86\Release\CoordinateTransformation.UCCcoordTran.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\CoordinateTransformation\CoordinateTransformation\obj\x86\Release\CoordinateTransformation.UCCoorSystem.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\CoordinateTransformation\CoordinateTransformation\obj\x86\Release\CoordinateTransformation.UCParameter.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\CoordinateTransformation\CoordinateTransformation\obj\x86\Release\CoordinateTransformation.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\CoordinateTransformation\CoordinateTransformation\obj\x86\Release\CoordinateTransformation.exe.licenses
+C:\Users\Administrator\documents\visual studio 2010\Projects\CoordinateTransformation\CoordinateTransformation\obj\x86\Release\CoordinateTransformation.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\CoordinateTransformation\CoordinateTransformation\obj\x86\Release\CoordinateTransformation.pdb
